@@ -1,6 +1,25 @@
 # project_dicoding
-
 A new Flutter project.
+
+Hasil Screenshoot Aplikasi
+1) Tampilan Homepage
+![](image/Homepage.jpg)
+
+2) Tampilan Menu Pulsa
+![](image/MenuPulsa.jpg)
+
+3) Tampilan Menu Paket Data
+![](image/MenuPaketData.jpg)
+
+4) Tampilan Menu Token Listrik
+![](image/MenutokenListrik.jpg)
+
+Bukti Screenshoot sertifikat
+1) Sertifikat Dart
+![](image/SertifikatDart.jpg)
+
+2) Sertifikat Flutter
+![](image/SertifikatFlutter.jpg)
 
 ## Getting Started
 
