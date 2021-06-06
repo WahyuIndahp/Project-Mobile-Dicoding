@@ -12,7 +12,7 @@ Hasil Screenshoot Aplikasi
 ![](image/MenuPaketData.jpg)
 
 4) Tampilan Menu Token Listrik
-![](image/MenutokenListrik.jpg)
+![](image/MenuTokenListrik.jpg)
 
 Bukti Screenshoot sertifikat
 1) Sertifikat Dart
